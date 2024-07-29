@@ -24,7 +24,7 @@
 					"redjue.git-commit-plugin",
 					"mhutchie.git-graph",
 					"njpwerner.autodocstring",
-					"charliermarsh.ruff"
+					"mohd-akram.vscode-html-format"
 				]
 			}
 		}
