@@ -24,8 +24,7 @@
 					"redjue.git-commit-plugin",
 					"mhutchie.git-graph",
 					"njpwerner.autodocstring",
-					"mohd-akram.vscode-html-format",
-					"castwide.solargraph"
+					"mohd-akram.vscode-html-format"
 				]
 			}
 		}
